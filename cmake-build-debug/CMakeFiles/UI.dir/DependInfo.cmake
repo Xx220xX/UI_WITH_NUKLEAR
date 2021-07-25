@@ -4,8 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "C:/Users/Henrique/Desktop/UI/extern/include/nuklear/nuklear.c" "C:/Users/Henrique/Desktop/UI/cmake-build-debug/CMakeFiles/UI.dir/extern/include/nuklear/nuklear.c.obj"
-  "C:/Users/Henrique/Desktop/UI/main.c" "C:/Users/Henrique/Desktop/UI/cmake-build-debug/CMakeFiles/UI.dir/main.c.obj"
+  "C:/Gabriela/UI_WITH_NUKLEAR/main.c" "C:/Gabriela/UI_WITH_NUKLEAR/cmake-build-debug/CMakeFiles/UI.dir/main.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
@@ -13,7 +12,6 @@ set(CMAKE_C_COMPILER_ID "GNU")
 set(CMAKE_C_TARGET_INCLUDE_PATH
   "../extern/include"
   "../extern/include/nuklear"
-  "../extern/include/nuklear/src"
   "../extern/include/nuklear/example"
   )
 

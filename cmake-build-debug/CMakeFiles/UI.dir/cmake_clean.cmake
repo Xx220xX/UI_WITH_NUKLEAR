@@ -1,5 +1,4 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/UI.dir/extern/include/nuklear/nuklear.c.obj"
   "CMakeFiles/UI.dir/main.c.obj"
   "UI.exe"
   "UI.exe.manifest"

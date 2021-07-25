@@ -1,1 +1,1 @@
-  -LC:/Users/Henrique/Desktop/UI/extern/lib  -lglfw3 -lopengl32 -lm -lGLU32 -lGLEW32 -lmingw32 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
+  -LC:/Gabriela/UI_WITH_NUKLEAR/extern/lib  -lglfw3 -lopengl32 -lm -lGLU32 -lGLEW32 -lmingw32 -ld3d11 -ld3d9 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
